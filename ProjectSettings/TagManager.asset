@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Monster
+  - FxTemporaire
+  - UICanvas
+  - UIHealthBar
   layers:
   - Default
   - TransparentFX
