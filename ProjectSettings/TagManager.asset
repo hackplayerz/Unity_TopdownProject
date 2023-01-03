@@ -8,6 +8,8 @@ TagManager:
   - FxTemporaire
   - UICanvas
   - UIHealthBar
+  - Wall
+  - BossHealthUI
   layers:
   - Default
   - TransparentFX
